@@ -34,3 +34,7 @@ Hard level
 WinScreen
 ![winscreen](https://user-images.githubusercontent.com/69567983/183889381-973bbec4-9224-404b-93dd-07a4fcf34e88.png)
 
+LoseScreen
+![losescreen](https://user-images.githubusercontent.com/69567983/183889586-03131fd0-0e88-4a4e-aa8c-761c423031a9.png)
+
+
