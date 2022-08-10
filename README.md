@@ -14,5 +14,14 @@ Tankmopper is a game where tanks are hidden in a grid of squares. Safe squares h
 
 ## Demo
 
+Here is a demo of how the app works
+
 ![tmopper](https://user-images.githubusercontent.com/69567983/183886860-13bd6755-fc3b-4e48-a4ab-27739d3190eb.gif)
+
+## Screenshots
+
+Here are some screenshots of the game
+
+Easy level
+
 
