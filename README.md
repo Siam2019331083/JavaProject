@@ -31,3 +31,6 @@ Medium level
 Hard level
 ![hard](https://user-images.githubusercontent.com/69567983/183889065-9073f3fe-0dec-4256-8df5-b556cedeb516.png)
 
+WinScreen
+![winscreen](https://user-images.githubusercontent.com/69567983/183889381-973bbec4-9224-404b-93dd-07a4fcf34e88.png)
+
