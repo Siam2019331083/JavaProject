@@ -23,5 +23,5 @@ Here is a demo of how the app works
 Here are some screenshots of the game
 
 Easy level
-
+![easy](https://user-images.githubusercontent.com/69567983/183887903-f2adb994-703a-4746-953e-b4b2429d626d.png)
 
