@@ -1,4 +1,6 @@
-# TANKMOPPER
+# TankMopper
+
+## Introduction
 
 I've created a game called Minesweeper. In this version, there are three levels.
 
