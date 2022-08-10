@@ -25,3 +25,5 @@ Here are some screenshots of the game
 Easy level
 ![easy](https://user-images.githubusercontent.com/69567983/183887903-f2adb994-703a-4746-953e-b4b2429d626d.png)
 
+Medium level
+![medium](https://user-images.githubusercontent.com/69567983/183888435-27a682ba-6692-4eef-a0ce-f94c1e4bcd77.png)
