@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I've created a game called Minesweeper. In this version, there are three levels.
+I've created a game called TankMopper. In this version, there are three levels.
 
 1.The easy level is a 10 x 10 grid, with 10 tanks hidden.
 
